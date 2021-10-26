@@ -1,0 +1,968 @@
+[{"calendario": "2021-10-28","dia": "JUEVES 28 DE OCTUBRE 2021","horas": [
+    {"calendarioId": 29,"hora": "12:00 HRS. JUEVES 28 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=29&CategoriaTicket=2"}]},
+    {"calendarioId": 30,"hora": "13:30 HRS. JUEVES 28 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=30&CategoriaTicket=2"}]},
+    {"calendarioId": 31,"hora": "15:00 HRS. JUEVES 28 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=31&CategoriaTicket=2"}]},
+    {"calendarioId": 32,"hora": "16:30 HRS. JUEVES 28 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=32&CategoriaTicket=2"}]},
+    {"calendarioId": 33,"hora": "18:00 HRS. JUEVES 28 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=33&CategoriaTicket=2"}]},
+    {"calendarioId": 34,"hora": "19:30 HRS. JUEVES 28 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=34&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-10-29","dia": "VIERNES 29 DE OCTUBRE 2021","horas": [
+    {"calendarioId": 35,"hora": "12:00 HRS. VIERNES 29 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=35&CategoriaTicket=2"}]},
+    {"calendarioId": 36,"hora": "13:30 HRS. VIERNES 29 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=36&CategoriaTicket=2"}]},
+    {"calendarioId": 37,"hora": "15:00 HRS. VIERNES 29 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=37&CategoriaTicket=2"}]},
+    {"calendarioId": 38,"hora": "16:30 HRS. VIERNES 29 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=38&CategoriaTicket=2"}]},
+    {"calendarioId": 39,"hora": "18:00 HRS. VIERNES 29 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=39&CategoriaTicket=2"}]},
+    {"calendarioId": 40,"hora": "19:30 HRS. VIERNES 29 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=40&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-10-30","dia": "SÁBADO 30 DE OCTUBRE 2021","horas": [
+    {"calendarioId": 41,"hora": "10:00 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=41&CategoriaTicket=2"}]},
+    {"calendarioId": 42,"hora": "11:30 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=42&CategoriaTicket=2"}]},
+    {"calendarioId": 43,"hora": "13:00 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=43&CategoriaTicket=2"}]},
+    {"calendarioId": 44,"hora": "14:30 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=44&CategoriaTicket=2"}]},
+    {"calendarioId": 45,"hora": "16:00 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=45&CategoriaTicket=2"}]},
+    {"calendarioId": 46,"hora": "17:30 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=46&CategoriaTicket=2"}]},
+    {"calendarioId": 47,"hora": "19:00 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=47&CategoriaTicket=2"}]},
+    {"calendarioId": 48,"hora": "20:30 HRS. SÁBADO 30 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=48&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-10-31","dia": "DOMINGO 31 DE OCTUBRE 2021","horas": [
+    {"calendarioId": 49,"hora": "10:00 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=49&CategoriaTicket=2"}]},
+    {"calendarioId": 50,"hora": "11:30 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=50&CategoriaTicket=2"}]},
+    {"calendarioId": 51,"hora": "13:00 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=51&CategoriaTicket=2"}]},
+    {"calendarioId": 52,"hora": "14:30 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=52&CategoriaTicket=2"}]},
+    {"calendarioId": 53,"hora": "16:00 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=53&CategoriaTicket=2"}]},
+    {"calendarioId": 54,"hora": "17:30 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=54&CategoriaTicket=2"}]},
+    {"calendarioId": 55,"hora": "19:00 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=55&CategoriaTicket=2"}]},
+    {"calendarioId": 56,"hora": "20:30 HRS. DOMINGO 31 DE OCTUBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=56&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-1","dia": "LUNES 01 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 449,"hora": "10:00 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=449&CategoriaTicket=2"}]},
+    {"calendarioId": 450,"hora": "11:30 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=450&CategoriaTicket=2"}]},
+    {"calendarioId": 451,"hora": "13:00 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=451&CategoriaTicket=2"}]},
+    {"calendarioId": 452,"hora": "14:30 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=452&CategoriaTicket=2"}]},
+    {"calendarioId": 453,"hora": "16:00 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=453&CategoriaTicket=2"}]},
+    {"calendarioId": 454,"hora": "17:30 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=454&CategoriaTicket=2"}]},
+    {"calendarioId": 455,"hora": "19:00 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=455&CategoriaTicket=2"}]},
+    {"calendarioId": 456,"hora": "20:30 HRS. LUNES 01 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=456&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-4","dia": "JUEVES 04 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 57,"hora": "12:00 HRS. JUEVES 04 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=57&CategoriaTicket=2"}]},
+    {"calendarioId": 58,"hora": "13:30 HRS. JUEVES 04 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=58&CategoriaTicket=2"}]},
+    {"calendarioId": 59,"hora": "15:00 HRS. JUEVES 04 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=59&CategoriaTicket=2"}]},
+    {"calendarioId": 60,"hora": "16:30 HRS. JUEVES 04 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=60&CategoriaTicket=2"}]},
+    {"calendarioId": 61,"hora": "18:00 HRS. JUEVES 04 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=61&CategoriaTicket=2"}]},
+    {"calendarioId": 62,"hora": "19:30 HRS. JUEVES 04 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=62&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-5","dia": "VIERNES 05 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 63,"hora": "12:00 HRS. VIERNES 05 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=63&CategoriaTicket=2"}]},
+    {"calendarioId": 64,"hora": "13:30 HRS. VIERNES 05 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=64&CategoriaTicket=2"}]},
+    {"calendarioId": 65,"hora": "15:00 HRS. VIERNES 05 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=65&CategoriaTicket=2"}]},
+    {"calendarioId": 66,"hora": "16:30 HRS. VIERNES 05 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=66&CategoriaTicket=2"}]},
+    {"calendarioId": 67,"hora": "18:00 HRS. VIERNES 05 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=67&CategoriaTicket=2"}]},
+    {"calendarioId": 68,"hora": "19:30 HRS. VIERNES 05 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=68&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-6","dia": "SÁBADO 06 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 69,"hora": "10:00 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=69&CategoriaTicket=2"}]},
+    {"calendarioId": 70,"hora": "11:30 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=70&CategoriaTicket=2"}]},
+    {"calendarioId": 71,"hora": "13:00 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=71&CategoriaTicket=2"}]},
+    {"calendarioId": 72,"hora": "14:30 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=72&CategoriaTicket=2"}]},
+    {"calendarioId": 73,"hora": "16:00 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=73&CategoriaTicket=2"}]},
+    {"calendarioId": 74,"hora": "17:30 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=74&CategoriaTicket=2"}]},
+    {"calendarioId": 75,"hora": "19:00 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=75&CategoriaTicket=2"}]},
+    {"calendarioId": 76,"hora": "20:30 HRS. SÁBADO 06 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=76&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-7","dia": "DOMINGO 07 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 77,"hora": "10:00 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=77&CategoriaTicket=2"}]},
+    {"calendarioId": 78,"hora": "11:30 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=78&CategoriaTicket=2"}]},
+    {"calendarioId": 79,"hora": "13:00 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=79&CategoriaTicket=2"}]},
+    {"calendarioId": 80,"hora": "14:30 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=80&CategoriaTicket=2"}]},
+    {"calendarioId": 81,"hora": "16:00 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=81&CategoriaTicket=2"}]},
+    {"calendarioId": 82,"hora": "17:30 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=82&CategoriaTicket=2"}]},
+    {"calendarioId": 83,"hora": "19:00 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=83&CategoriaTicket=2"}]},
+    {"calendarioId": 84,"hora": "20:30 HRS. DOMINGO 07 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=84&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-11","dia": "JUEVES 11 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 85,"hora": "12:00 HRS. JUEVES 11 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=85&CategoriaTicket=2"}]},
+    {"calendarioId": 86,"hora": "13:30 HRS. JUEVES 11 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=86&CategoriaTicket=2"}]},
+    {"calendarioId": 87,"hora": "15:00 HRS. JUEVES 11 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=87&CategoriaTicket=2"}]},
+    {"calendarioId": 88,"hora": "16:30 HRS. JUEVES 11 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=88&CategoriaTicket=2"}]},
+    {"calendarioId": 89,"hora": "18:00 HRS. JUEVES 11 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=89&CategoriaTicket=2"}]},
+    {"calendarioId": 90,"hora": "19:30 HRS. JUEVES 11 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=90&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-12","dia": "VIERNES 12 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 91,"hora": "12:00 HRS. VIERNES 12 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=91&CategoriaTicket=2"}]},
+    {"calendarioId": 92,"hora": "13:30 HRS. VIERNES 12 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=92&CategoriaTicket=2"}]},
+    {"calendarioId": 93,"hora": "15:00 HRS. VIERNES 12 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=93&CategoriaTicket=2"}]},
+    {"calendarioId": 94,"hora": "16:30 HRS. VIERNES 12 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=94&CategoriaTicket=2"}]},
+    {"calendarioId": 95,"hora": "18:00 HRS. VIERNES 12 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=95&CategoriaTicket=2"}]},
+    {"calendarioId": 96,"hora": "19:30 HRS. VIERNES 12 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=96&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-13","dia": "SÁBADO 13 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 97,"hora": "10:00 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=97&CategoriaTicket=2"}]},
+    {"calendarioId": 98,"hora": "11:30 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=98&CategoriaTicket=2"}]},
+    {"calendarioId": 99,"hora": "13:00 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=99&CategoriaTicket=2"}]},
+    {"calendarioId": 100,"hora": "14:30 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=100&CategoriaTicket=2"}]},
+    {"calendarioId": 101,"hora": "16:00 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=101&CategoriaTicket=2"}]},
+    {"calendarioId": 102,"hora": "17:30 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=102&CategoriaTicket=2"}]},
+    {"calendarioId": 103,"hora": "19:00 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=103&CategoriaTicket=2"}]},
+    {"calendarioId": 104,"hora": "20:30 HRS. SÁBADO 13 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=104&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-14","dia": "DOMINGO 14 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 105,"hora": "10:00 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=105&CategoriaTicket=2"}]},
+    {"calendarioId": 106,"hora": "11:30 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=106&CategoriaTicket=2"}]},
+    {"calendarioId": 107,"hora": "13:00 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=107&CategoriaTicket=2"}]},
+    {"calendarioId": 108,"hora": "14:30 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=108&CategoriaTicket=2"}]},
+    {"calendarioId": 109,"hora": "16:00 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=109&CategoriaTicket=2"}]},
+    {"calendarioId": 110,"hora": "17:30 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=110&CategoriaTicket=2"}]},
+    {"calendarioId": 111,"hora": "19:00 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=111&CategoriaTicket=2"}]},
+    {"calendarioId": 112,"hora": "20:30 HRS. DOMINGO 14 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=112&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-18","dia": "JUEVES 18 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 113,"hora": "12:00 HRS. JUEVES 18 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=113&CategoriaTicket=2"}]},
+    {"calendarioId": 114,"hora": "13:30 HRS. JUEVES 18 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=114&CategoriaTicket=2"}]},
+    {"calendarioId": 115,"hora": "15:00 HRS. JUEVES 18 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=115&CategoriaTicket=2"}]},
+    {"calendarioId": 116,"hora": "16:30 HRS. JUEVES 18 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=116&CategoriaTicket=2"}]},
+    {"calendarioId": 117,"hora": "18:00 HRS. JUEVES 18 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=117&CategoriaTicket=2"}]},
+    {"calendarioId": 118,"hora": "19:30 HRS. JUEVES 18 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=118&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-19","dia": "VIERNES 19 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 119,"hora": "12:00 HRS. VIERNES 19 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=119&CategoriaTicket=2"}]},
+    {"calendarioId": 120,"hora": "13:30 HRS. VIERNES 19 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=120&CategoriaTicket=2"}]},
+    {"calendarioId": 121,"hora": "15:00 HRS. VIERNES 19 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=121&CategoriaTicket=2"}]},
+    {"calendarioId": 122,"hora": "16:30 HRS. VIERNES 19 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=122&CategoriaTicket=2"}]},
+    {"calendarioId": 123,"hora": "18:00 HRS. VIERNES 19 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=123&CategoriaTicket=2"}]},
+    {"calendarioId": 124,"hora": "19:30 HRS. VIERNES 19 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=124&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-20","dia": "SÁBADO 20 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 125,"hora": "10:00 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=125&CategoriaTicket=2"}]},
+    {"calendarioId": 126,"hora": "11:30 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=126&CategoriaTicket=2"}]},
+    {"calendarioId": 127,"hora": "13:00 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=127&CategoriaTicket=2"}]},
+    {"calendarioId": 128,"hora": "14:30 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=128&CategoriaTicket=2"}]},
+    {"calendarioId": 129,"hora": "16:00 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=129&CategoriaTicket=2"}]},
+    {"calendarioId": 130,"hora": "17:30 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=130&CategoriaTicket=2"}]},
+    {"calendarioId": 131,"hora": "19:00 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=131&CategoriaTicket=2"}]},
+    {"calendarioId": 132,"hora": "20:30 HRS. SÁBADO 20 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=132&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-21","dia": "DOMINGO 21 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 133,"hora": "10:00 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=133&CategoriaTicket=2"}]},
+    {"calendarioId": 134,"hora": "11:30 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=134&CategoriaTicket=2"}]},
+    {"calendarioId": 135,"hora": "13:00 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=135&CategoriaTicket=2"}]},
+    {"calendarioId": 136,"hora": "14:30 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=136&CategoriaTicket=2"}]},
+    {"calendarioId": 137,"hora": "16:00 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=137&CategoriaTicket=2"}]},
+    {"calendarioId": 138,"hora": "17:30 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=138&CategoriaTicket=2"}]},
+    {"calendarioId": 139,"hora": "19:00 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=139&CategoriaTicket=2"}]},
+    {"calendarioId": 140,"hora": "20:30 HRS. DOMINGO 21 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=140&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-25","dia": "JUEVES 25 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 141,"hora": "12:00 HRS. JUEVES 25 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=141&CategoriaTicket=2"}]},
+    {"calendarioId": 142,"hora": "13:30 HRS. JUEVES 25 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=142&CategoriaTicket=2"}]},
+    {"calendarioId": 143,"hora": "15:00 HRS. JUEVES 25 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=143&CategoriaTicket=2"}]},
+    {"calendarioId": 144,"hora": "16:30 HRS. JUEVES 25 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=144&CategoriaTicket=2"}]},
+    {"calendarioId": 145,"hora": "18:00 HRS. JUEVES 25 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=145&CategoriaTicket=2"}]},
+    {"calendarioId": 146,"hora": "19:30 HRS. JUEVES 25 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=146&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-26","dia": "VIERNES 26 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 147,"hora": "12:00 HRS. VIERNES 26 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=147&CategoriaTicket=2"}]},
+    {"calendarioId": 148,"hora": "13:30 HRS. VIERNES 26 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=148&CategoriaTicket=2"}]},
+    {"calendarioId": 149,"hora": "15:00 HRS. VIERNES 26 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=149&CategoriaTicket=2"}]},
+    {"calendarioId": 150,"hora": "16:30 HRS. VIERNES 26 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=150&CategoriaTicket=2"}]},
+    {"calendarioId": 151,"hora": "18:00 HRS. VIERNES 26 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=151&CategoriaTicket=2"}]},
+    {"calendarioId": 152,"hora": "19:30 HRS. VIERNES 26 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=152&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-27","dia": "SÁBADO 27 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 153,"hora": "10:00 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=153&CategoriaTicket=2"}]},
+    {"calendarioId": 154,"hora": "11:30 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=154&CategoriaTicket=2"}]},
+    {"calendarioId": 155,"hora": "13:00 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=155&CategoriaTicket=2"}]},
+    {"calendarioId": 156,"hora": "14:30 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=156&CategoriaTicket=2"}]},
+    {"calendarioId": 157,"hora": "16:00 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=157&CategoriaTicket=2"}]},
+    {"calendarioId": 158,"hora": "17:30 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=158&CategoriaTicket=2"}]},
+    {"calendarioId": 159,"hora": "19:00 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=159&CategoriaTicket=2"}]},
+    {"calendarioId": 160,"hora": "20:30 HRS. SÁBADO 27 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=160&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-11-28","dia": "DOMINGO 28 DE NOVIEMBRE 2021","horas": [
+    {"calendarioId": 161,"hora": "10:00 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=161&CategoriaTicket=2"}]},
+    {"calendarioId": 162,"hora": "11:30 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=162&CategoriaTicket=2"}]},
+    {"calendarioId": 163,"hora": "13:00 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=163&CategoriaTicket=2"}]},
+    {"calendarioId": 164,"hora": "14:30 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=164&CategoriaTicket=2"}]},
+    {"calendarioId": 165,"hora": "16:00 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=165&CategoriaTicket=2"}]},
+    {"calendarioId": 166,"hora": "17:30 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=166&CategoriaTicket=2"}]},
+    {"calendarioId": 167,"hora": "19:00 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=167&CategoriaTicket=2"}]},
+    {"calendarioId": 168,"hora": "20:30 HRS. DOMINGO 28 DE NOVIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=168&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-1","dia": "MIERCOLES 01 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 169,"hora": "10:00 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=169&CategoriaTicket=2"}]},
+    {"calendarioId": 170,"hora": "11:30 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=170&CategoriaTicket=2"}]},
+    {"calendarioId": 171,"hora": "13:00 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=171&CategoriaTicket=2"}]},
+    {"calendarioId": 172,"hora": "14:30 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=172&CategoriaTicket=2"}]},
+    {"calendarioId": 173,"hora": "16:00 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=173&CategoriaTicket=2"}]},
+    {"calendarioId": 174,"hora": "17:30 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=174&CategoriaTicket=2"}]},
+    {"calendarioId": 175,"hora": "19:00 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=175&CategoriaTicket=2"}]},
+    {"calendarioId": 176,"hora": "20:30 HRS. MIERCOLES 01 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=176&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-2","dia": "JUEVES 02 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 177,"hora": "10:00 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=177&CategoriaTicket=2"}]},
+    {"calendarioId": 178,"hora": "11:30 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=178&CategoriaTicket=2"}]},
+    {"calendarioId": 179,"hora": "13:00 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=179&CategoriaTicket=2"}]},
+    {"calendarioId": 180,"hora": "14:30 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=180&CategoriaTicket=2"}]},
+    {"calendarioId": 181,"hora": "16:00 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=181&CategoriaTicket=2"}]},
+    {"calendarioId": 182,"hora": "17:30 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=182&CategoriaTicket=2"}]},
+    {"calendarioId": 183,"hora": "19:00 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=183&CategoriaTicket=2"}]},
+    {"calendarioId": 184,"hora": "20:30 HRS. JUEVES 02 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=184&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-3","dia": "VIERNES 03 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 185,"hora": "10:00 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=185&CategoriaTicket=2"}]},
+    {"calendarioId": 186,"hora": "11:30 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=186&CategoriaTicket=2"}]},
+    {"calendarioId": 187,"hora": "13:00 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=187&CategoriaTicket=2"}]},
+    {"calendarioId": 188,"hora": "14:30 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=188&CategoriaTicket=2"}]},
+    {"calendarioId": 189,"hora": "16:00 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=189&CategoriaTicket=2"}]},
+    {"calendarioId": 190,"hora": "17:30 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=190&CategoriaTicket=2"}]},
+    {"calendarioId": 191,"hora": "19:00 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=191&CategoriaTicket=2"}]},
+    {"calendarioId": 192,"hora": "20:30 HRS. VIERNES 03 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=192&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-4","dia": "SÁBADO 04 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 193,"hora": "10:00 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=193&CategoriaTicket=2"}]},
+    {"calendarioId": 194,"hora": "11:30 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=194&CategoriaTicket=2"}]},
+    {"calendarioId": 195,"hora": "13:00 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=195&CategoriaTicket=2"}]},
+    {"calendarioId": 196,"hora": "14:30 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=196&CategoriaTicket=2"}]},
+    {"calendarioId": 197,"hora": "16:00 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=197&CategoriaTicket=2"}]},
+    {"calendarioId": 198,"hora": "17:30 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=198&CategoriaTicket=2"}]},
+    {"calendarioId": 199,"hora": "19:00 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=199&CategoriaTicket=2"}]},
+    {"calendarioId": 200,"hora": "20:30 HRS. SÁBADO 04 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=200&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-5","dia": "DOMINGO 05 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 201,"hora": "10:00 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=201&CategoriaTicket=2"}]},
+    {"calendarioId": 202,"hora": "11:30 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=202&CategoriaTicket=2"}]},
+    {"calendarioId": 203,"hora": "13:00 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=203&CategoriaTicket=2"}]},
+    {"calendarioId": 204,"hora": "14:30 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=204&CategoriaTicket=2"}]},
+    {"calendarioId": 205,"hora": "16:00 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=205&CategoriaTicket=2"}]},
+    {"calendarioId": 206,"hora": "17:30 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=206&CategoriaTicket=2"}]},
+    {"calendarioId": 207,"hora": "19:00 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=207&CategoriaTicket=2"}]},
+    {"calendarioId": 208,"hora": "20:30 HRS. DOMINGO 05 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=208&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-7","dia": "MARTES 07 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 209,"hora": "10:00 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=209&CategoriaTicket=2"}]},
+    {"calendarioId": 210,"hora": "11:30 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=210&CategoriaTicket=2"}]},
+    {"calendarioId": 211,"hora": "13:00 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=211&CategoriaTicket=2"}]},
+    {"calendarioId": 212,"hora": "14:30 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=212&CategoriaTicket=2"}]},
+    {"calendarioId": 213,"hora": "16:00 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=213&CategoriaTicket=2"}]},
+    {"calendarioId": 214,"hora": "17:30 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=214&CategoriaTicket=2"}]},
+    {"calendarioId": 215,"hora": "19:00 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=215&CategoriaTicket=2"}]},
+    {"calendarioId": 216,"hora": "20:30 HRS. MARTES 07 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=216&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-8","dia": "MIERCOLES 08 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 217,"hora": "10:00 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=217&CategoriaTicket=2"}]},
+    {"calendarioId": 218,"hora": "11:30 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=218&CategoriaTicket=2"}]},
+    {"calendarioId": 219,"hora": "13:00 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=219&CategoriaTicket=2"}]},
+    {"calendarioId": 220,"hora": "14:30 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=220&CategoriaTicket=2"}]},
+    {"calendarioId": 221,"hora": "16:00 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=221&CategoriaTicket=2"}]},
+    {"calendarioId": 222,"hora": "17:30 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=222&CategoriaTicket=2"}]},
+    {"calendarioId": 223,"hora": "19:00 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=223&CategoriaTicket=2"}]},
+    {"calendarioId": 224,"hora": "20:30 HRS. MIERCOLES 08 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=224&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-9","dia": "JUEVES 09 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 225,"hora": "10:00 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=225&CategoriaTicket=2"}]},
+    {"calendarioId": 226,"hora": "11:30 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=226&CategoriaTicket=2"}]},
+    {"calendarioId": 227,"hora": "13:00 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=227&CategoriaTicket=2"}]},
+    {"calendarioId": 228,"hora": "14:30 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=228&CategoriaTicket=2"}]},
+    {"calendarioId": 229,"hora": "16:00 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=229&CategoriaTicket=2"}]},
+    {"calendarioId": 230,"hora": "17:30 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=230&CategoriaTicket=2"}]},
+    {"calendarioId": 231,"hora": "19:00 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=231&CategoriaTicket=2"}]},
+    {"calendarioId": 232,"hora": "20:30 HRS. JUEVES 09 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=232&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-10","dia": "VIERNES 10 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 233,"hora": "10:00 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=233&CategoriaTicket=2"}]},
+    {"calendarioId": 234,"hora": "11:30 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=234&CategoriaTicket=2"}]},
+    {"calendarioId": 235,"hora": "13:00 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=235&CategoriaTicket=2"}]},
+    {"calendarioId": 236,"hora": "14:30 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=236&CategoriaTicket=2"}]},
+    {"calendarioId": 237,"hora": "16:00 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=237&CategoriaTicket=2"}]},
+    {"calendarioId": 238,"hora": "17:30 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=238&CategoriaTicket=2"}]},
+    {"calendarioId": 239,"hora": "19:00 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=239&CategoriaTicket=2"}]},
+    {"calendarioId": 240,"hora": "20:30 HRS. VIERNES 10 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=240&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-11","dia": "SÁBADO 11 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 241,"hora": "10:00 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=241&CategoriaTicket=2"}]},
+    {"calendarioId": 242,"hora": "11:30 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=242&CategoriaTicket=2"}]},
+    {"calendarioId": 243,"hora": "13:00 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=243&CategoriaTicket=2"}]},
+    {"calendarioId": 244,"hora": "14:30 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=244&CategoriaTicket=2"}]},
+    {"calendarioId": 245,"hora": "16:00 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=245&CategoriaTicket=2"}]},
+    {"calendarioId": 246,"hora": "17:30 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=246&CategoriaTicket=2"}]},
+    {"calendarioId": 247,"hora": "19:00 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=247&CategoriaTicket=2"}]},
+    {"calendarioId": 248,"hora": "20:30 HRS. SÁBADO 11 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=248&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-12","dia": "DOMINGO 12 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 249,"hora": "10:00 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=249&CategoriaTicket=2"}]},
+    {"calendarioId": 250,"hora": "11:30 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=250&CategoriaTicket=2"}]},
+    {"calendarioId": 251,"hora": "13:00 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=251&CategoriaTicket=2"}]},
+    {"calendarioId": 252,"hora": "14:30 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=252&CategoriaTicket=2"}]},
+    {"calendarioId": 253,"hora": "16:00 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=253&CategoriaTicket=2"}]},
+    {"calendarioId": 254,"hora": "17:30 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=254&CategoriaTicket=2"}]},
+    {"calendarioId": 255,"hora": "19:00 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=255&CategoriaTicket=2"}]},
+    {"calendarioId": 256,"hora": "20:30 HRS. DOMINGO 12 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=256&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-14","dia": "MARTES 14 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 257,"hora": "10:00 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=257&CategoriaTicket=2"}]},
+    {"calendarioId": 258,"hora": "11:30 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=258&CategoriaTicket=2"}]},
+    {"calendarioId": 259,"hora": "13:00 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=259&CategoriaTicket=2"}]},
+    {"calendarioId": 260,"hora": "14:30 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=260&CategoriaTicket=2"}]},
+    {"calendarioId": 261,"hora": "16:00 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=261&CategoriaTicket=2"}]},
+    {"calendarioId": 262,"hora": "17:30 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=262&CategoriaTicket=2"}]},
+    {"calendarioId": 263,"hora": "19:00 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=263&CategoriaTicket=2"}]},
+    {"calendarioId": 264,"hora": "20:30 HRS. MARTES 14 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=264&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-15","dia": "MIERCOLES 15 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 265,"hora": "10:00 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=265&CategoriaTicket=2"}]},
+    {"calendarioId": 266,"hora": "11:30 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=266&CategoriaTicket=2"}]},
+    {"calendarioId": 267,"hora": "13:00 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=267&CategoriaTicket=2"}]},
+    {"calendarioId": 268,"hora": "14:30 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=268&CategoriaTicket=2"}]},
+    {"calendarioId": 269,"hora": "16:00 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=269&CategoriaTicket=2"}]},
+    {"calendarioId": 270,"hora": "17:30 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=270&CategoriaTicket=2"}]},
+    {"calendarioId": 271,"hora": "19:00 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=271&CategoriaTicket=2"}]},
+    {"calendarioId": 272,"hora": "20:30 HRS. MIERCOLES 15 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=272&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-16","dia": "JUEVES 16 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 273,"hora": "10:00 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=273&CategoriaTicket=2"}]},
+    {"calendarioId": 274,"hora": "11:30 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=274&CategoriaTicket=2"}]},
+    {"calendarioId": 275,"hora": "13:00 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=275&CategoriaTicket=2"}]},
+    {"calendarioId": 276,"hora": "14:30 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=276&CategoriaTicket=2"}]},
+    {"calendarioId": 277,"hora": "16:00 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=277&CategoriaTicket=2"}]},
+    {"calendarioId": 278,"hora": "17:30 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=278&CategoriaTicket=2"}]},
+    {"calendarioId": 279,"hora": "19:00 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=279&CategoriaTicket=2"}]},
+    {"calendarioId": 280,"hora": "20:30 HRS. JUEVES 16 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=280&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-17","dia": "VIERNES 17 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 281,"hora": "10:00 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=281&CategoriaTicket=2"}]},
+    {"calendarioId": 282,"hora": "11:30 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=282&CategoriaTicket=2"}]},
+    {"calendarioId": 283,"hora": "13:00 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=283&CategoriaTicket=2"}]},
+    {"calendarioId": 284,"hora": "14:30 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=284&CategoriaTicket=2"}]},
+    {"calendarioId": 285,"hora": "16:00 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=285&CategoriaTicket=2"}]},
+    {"calendarioId": 286,"hora": "17:30 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=286&CategoriaTicket=2"}]},
+    {"calendarioId": 287,"hora": "19:00 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=287&CategoriaTicket=2"}]},
+    {"calendarioId": 288,"hora": "20:30 HRS. VIERNES 17 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=288&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-18","dia": "SÁBADO 18 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 289,"hora": "10:00 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=289&CategoriaTicket=2"}]},
+    {"calendarioId": 290,"hora": "11:30 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=290&CategoriaTicket=2"}]},
+    {"calendarioId": 291,"hora": "13:00 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=291&CategoriaTicket=2"}]},
+    {"calendarioId": 292,"hora": "14:30 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=292&CategoriaTicket=2"}]},
+    {"calendarioId": 293,"hora": "16:00 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=293&CategoriaTicket=2"}]},
+    {"calendarioId": 294,"hora": "17:30 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=294&CategoriaTicket=2"}]},
+    {"calendarioId": 295,"hora": "19:00 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=295&CategoriaTicket=2"}]},
+    {"calendarioId": 296,"hora": "20:30 HRS. SÁBADO 18 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=296&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-19","dia": "DOMINGO 19 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 297,"hora": "10:00 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=297&CategoriaTicket=2"}]},
+    {"calendarioId": 298,"hora": "11:30 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=298&CategoriaTicket=2"}]},
+    {"calendarioId": 299,"hora": "13:00 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=299&CategoriaTicket=2"}]},
+    {"calendarioId": 300,"hora": "14:30 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=300&CategoriaTicket=2"}]},
+    {"calendarioId": 301,"hora": "16:00 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=301&CategoriaTicket=2"}]},
+    {"calendarioId": 302,"hora": "17:30 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=302&CategoriaTicket=2"}]},
+    {"calendarioId": 303,"hora": "19:00 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=303&CategoriaTicket=2"}]},
+    {"calendarioId": 304,"hora": "20:30 HRS. DOMINGO 19 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=304&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-21","dia": "MARTES 21 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 305,"hora": "10:00 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=305&CategoriaTicket=2"}]},
+    {"calendarioId": 306,"hora": "11:30 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=306&CategoriaTicket=2"}]},
+    {"calendarioId": 307,"hora": "13:00 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=307&CategoriaTicket=2"}]},
+    {"calendarioId": 308,"hora": "14:30 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=308&CategoriaTicket=2"}]},
+    {"calendarioId": 309,"hora": "16:00 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=309&CategoriaTicket=2"}]},
+    {"calendarioId": 310,"hora": "17:30 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=310&CategoriaTicket=2"}]},
+    {"calendarioId": 311,"hora": "19:00 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=311&CategoriaTicket=2"}]},
+    {"calendarioId": 312,"hora": "20:30 HRS. MARTES 21 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=312&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-22","dia": "MIERCOLES 22 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 313,"hora": "10:00 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=313&CategoriaTicket=2"}]},
+    {"calendarioId": 314,"hora": "11:30 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=314&CategoriaTicket=2"}]},
+    {"calendarioId": 315,"hora": "13:00 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=315&CategoriaTicket=2"}]},
+    {"calendarioId": 316,"hora": "14:30 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=316&CategoriaTicket=2"}]},
+    {"calendarioId": 317,"hora": "16:00 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=317&CategoriaTicket=2"}]},
+    {"calendarioId": 318,"hora": "17:30 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=318&CategoriaTicket=2"}]},
+    {"calendarioId": 319,"hora": "19:00 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=319&CategoriaTicket=2"}]},
+    {"calendarioId": 320,"hora": "20:30 HRS. MIERCOLES 22 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=320&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-23","dia": "JUEVES 23 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 321,"hora": "10:00 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=321&CategoriaTicket=2"}]},
+    {"calendarioId": 322,"hora": "11:30 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=322&CategoriaTicket=2"}]},
+    {"calendarioId": 323,"hora": "13:00 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=323&CategoriaTicket=2"}]},
+    {"calendarioId": 324,"hora": "14:30 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=324&CategoriaTicket=2"}]},
+    {"calendarioId": 325,"hora": "16:00 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=325&CategoriaTicket=2"}]},
+    {"calendarioId": 326,"hora": "17:30 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=326&CategoriaTicket=2"}]},
+    {"calendarioId": 327,"hora": "19:00 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=327&CategoriaTicket=2"}]},
+    {"calendarioId": 328,"hora": "20:30 HRS. JUEVES 23 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=328&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-26","dia": "DOMINGO 26 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 329,"hora": "10:00 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=329&CategoriaTicket=2"}]},
+    {"calendarioId": 330,"hora": "11:30 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=330&CategoriaTicket=2"}]},
+    {"calendarioId": 331,"hora": "13:00 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=331&CategoriaTicket=2"}]},
+    {"calendarioId": 332,"hora": "14:30 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=332&CategoriaTicket=2"}]},
+    {"calendarioId": 333,"hora": "16:00 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=333&CategoriaTicket=2"}]},
+    {"calendarioId": 334,"hora": "17:30 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=334&CategoriaTicket=2"}]},
+    {"calendarioId": 335,"hora": "19:00 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=335&CategoriaTicket=2"}]},
+    {"calendarioId": 336,"hora": "20:30 HRS. DOMINGO 26 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=336&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-28","dia": "MARTES 28 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 337,"hora": "10:00 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=337&CategoriaTicket=2"}]},
+    {"calendarioId": 338,"hora": "11:30 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=338&CategoriaTicket=2"}]},
+    {"calendarioId": 339,"hora": "13:00 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=339&CategoriaTicket=2"}]},
+    {"calendarioId": 340,"hora": "14:30 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=340&CategoriaTicket=2"}]},
+    {"calendarioId": 341,"hora": "16:00 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=341&CategoriaTicket=2"}]},
+    {"calendarioId": 342,"hora": "17:30 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=342&CategoriaTicket=2"}]},
+    {"calendarioId": 343,"hora": "19:00 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=343&CategoriaTicket=2"}]},
+    {"calendarioId": 344,"hora": "20:30 HRS. MARTES 28 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=344&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2021-12-29","dia": "MIERCOLES 29 DE DICIEMBRE 2021","horas": [
+    {"calendarioId": 345,"hora": "10:00 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=345&CategoriaTicket=2"}]},
+    {"calendarioId": 346,"hora": "11:30 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=346&CategoriaTicket=2"}]},
+    {"calendarioId": 347,"hora": "13:00 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=347&CategoriaTicket=2"}]},
+    {"calendarioId": 348,"hora": "14:30 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=348&CategoriaTicket=2"}]},
+    {"calendarioId": 349,"hora": "16:00 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=349&CategoriaTicket=2"}]},
+    {"calendarioId": 350,"hora": "17:30 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=350&CategoriaTicket=2"}]},
+    {"calendarioId": 351,"hora": "19:00 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=351&CategoriaTicket=2"}]},
+    {"calendarioId": 352,"hora": "20:30 HRS. MIERCOLES 29 DE DICIEMBRE 2021","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=352&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-1","dia": "SÁBADO 01 DE ENERO 2022","horas": [
+    {"calendarioId": 353,"hora": "10:00 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=353&CategoriaTicket=2"}]},
+    {"calendarioId": 354,"hora": "11:30 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=354&CategoriaTicket=2"}]},
+    {"calendarioId": 355,"hora": "13:00 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=355&CategoriaTicket=2"}]},
+    {"calendarioId": 356,"hora": "14:30 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=356&CategoriaTicket=2"}]},
+    {"calendarioId": 357,"hora": "16:00 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=357&CategoriaTicket=2"}]},
+    {"calendarioId": 358,"hora": "17:30 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=358&CategoriaTicket=2"}]},
+    {"calendarioId": 359,"hora": "19:00 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=359&CategoriaTicket=2"}]},
+    {"calendarioId": 360,"hora": "20:30 HRS. SÁBADO 01 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=360&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-2","dia": "DOMINGO 02 DE ENERO 2022","horas": [
+    {"calendarioId": 361,"hora": "10:00 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=361&CategoriaTicket=2"}]},
+    {"calendarioId": 362,"hora": "11:30 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=362&CategoriaTicket=2"}]},
+    {"calendarioId": 363,"hora": "13:00 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=363&CategoriaTicket=2"}]},
+    {"calendarioId": 364,"hora": "14:30 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=364&CategoriaTicket=2"}]},
+    {"calendarioId": 365,"hora": "16:00 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=365&CategoriaTicket=2"}]},
+    {"calendarioId": 366,"hora": "17:30 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=366&CategoriaTicket=2"}]},
+    {"calendarioId": 367,"hora": "19:00 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=367&CategoriaTicket=2"}]},
+    {"calendarioId": 368,"hora": "20:30 HRS. DOMINGO 02 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=368&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-4","dia": "MARTES 04 DE ENERO 2022","horas": [
+    {"calendarioId": 369,"hora": "10:00 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=369&CategoriaTicket=2"}]},
+    {"calendarioId": 370,"hora": "11:30 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=370&CategoriaTicket=2"}]},
+    {"calendarioId": 371,"hora": "13:00 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=371&CategoriaTicket=2"}]},
+    {"calendarioId": 372,"hora": "14:30 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=372&CategoriaTicket=2"}]},
+    {"calendarioId": 373,"hora": "16:00 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=373&CategoriaTicket=2"}]},
+    {"calendarioId": 374,"hora": "17:30 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=374&CategoriaTicket=2"}]},
+    {"calendarioId": 375,"hora": "19:00 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=375&CategoriaTicket=2"}]},
+    {"calendarioId": 376,"hora": "20:30 HRS. MARTES 04 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=376&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-5","dia": "MIERCOLES 05 DE ENERO 2022","horas": [
+    {"calendarioId": 377,"hora": "10:00 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=377&CategoriaTicket=2"}]},
+    {"calendarioId": 378,"hora": "11:30 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=378&CategoriaTicket=2"}]},
+    {"calendarioId": 379,"hora": "13:00 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=379&CategoriaTicket=2"}]},
+    {"calendarioId": 380,"hora": "14:30 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=380&CategoriaTicket=2"}]},
+    {"calendarioId": 381,"hora": "16:00 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=381&CategoriaTicket=2"}]},
+    {"calendarioId": 382,"hora": "17:30 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=382&CategoriaTicket=2"}]},
+    {"calendarioId": 383,"hora": "19:00 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=383&CategoriaTicket=2"}]},
+    {"calendarioId": 384,"hora": "20:30 HRS. MIERCOLES 05 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=384&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-6","dia": "JUEVES 06 DE ENERO 2022","horas": [
+    {"calendarioId": 385,"hora": "10:00 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=385&CategoriaTicket=2"}]},
+    {"calendarioId": 386,"hora": "11:30 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=386&CategoriaTicket=2"}]},
+    {"calendarioId": 387,"hora": "13:00 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=387&CategoriaTicket=2"}]},
+    {"calendarioId": 388,"hora": "14:30 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=388&CategoriaTicket=2"}]},
+    {"calendarioId": 389,"hora": "16:00 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=389&CategoriaTicket=2"}]},
+    {"calendarioId": 390,"hora": "17:30 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=390&CategoriaTicket=2"}]},
+    {"calendarioId": 391,"hora": "19:00 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=391&CategoriaTicket=2"}]},
+    {"calendarioId": 392,"hora": "20:30 HRS. JUEVES 06 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=392&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-7","dia": "VIERNES 07 DE ENERO 2022","horas": [
+    {"calendarioId": 393,"hora": "10:00 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=393&CategoriaTicket=2"}]},
+    {"calendarioId": 394,"hora": "11:30 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=394&CategoriaTicket=2"}]},
+    {"calendarioId": 395,"hora": "13:00 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=395&CategoriaTicket=2"}]},
+    {"calendarioId": 396,"hora": "14:30 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=396&CategoriaTicket=2"}]},
+    {"calendarioId": 397,"hora": "16:00 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=397&CategoriaTicket=2"}]},
+    {"calendarioId": 398,"hora": "17:30 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=398&CategoriaTicket=2"}]},
+    {"calendarioId": 399,"hora": "19:00 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=399&CategoriaTicket=2"}]},
+    {"calendarioId": 400,"hora": "20:30 HRS. VIERNES 07 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=400&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-8","dia": "SÁBADO 08 DE ENERO 2022","horas": [
+    {"calendarioId": 401,"hora": "10:00 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=401&CategoriaTicket=2"}]},
+    {"calendarioId": 402,"hora": "11:30 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=402&CategoriaTicket=2"}]},
+    {"calendarioId": 403,"hora": "13:00 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=403&CategoriaTicket=2"}]},
+    {"calendarioId": 404,"hora": "14:30 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=404&CategoriaTicket=2"}]},
+    {"calendarioId": 405,"hora": "16:00 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=405&CategoriaTicket=2"}]},
+    {"calendarioId": 406,"hora": "17:30 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=406&CategoriaTicket=2"}]},
+    {"calendarioId": 407,"hora": "19:00 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=407&CategoriaTicket=2"}]},
+    {"calendarioId": 408,"hora": "20:30 HRS. SÁBADO 08 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=408&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-9","dia": "DOMINGO 09 DE ENERO 2022","horas": [
+    {"calendarioId": 409,"hora": "10:00 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=409&CategoriaTicket=2"}]},
+    {"calendarioId": 410,"hora": "11:30 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=410&CategoriaTicket=2"}]},
+    {"calendarioId": 411,"hora": "13:00 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=411&CategoriaTicket=2"}]},
+    {"calendarioId": 412,"hora": "14:30 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=412&CategoriaTicket=2"}]},
+    {"calendarioId": 413,"hora": "16:00 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=413&CategoriaTicket=2"}]},
+    {"calendarioId": 414,"hora": "17:30 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=414&CategoriaTicket=2"}]},
+    {"calendarioId": 415,"hora": "19:00 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=415&CategoriaTicket=2"}]},
+    {"calendarioId": 416,"hora": "20:30 HRS. DOMINGO 09 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=416&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-11","dia": "MARTES 11 DE ENERO 2022","horas": [
+    {"calendarioId": 417,"hora": "10:00 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=417&CategoriaTicket=2"}]},
+    {"calendarioId": 418,"hora": "11:30 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=418&CategoriaTicket=2"}]},
+    {"calendarioId": 419,"hora": "13:00 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=419&CategoriaTicket=2"}]},
+    {"calendarioId": 420,"hora": "14:30 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=420&CategoriaTicket=2"}]},
+    {"calendarioId": 421,"hora": "16:00 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=421&CategoriaTicket=2"}]},
+    {"calendarioId": 422,"hora": "17:30 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=422&CategoriaTicket=2"}]},
+    {"calendarioId": 423,"hora": "19:00 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=423&CategoriaTicket=2"}]},
+    {"calendarioId": 424,"hora": "20:30 HRS. MARTES 11 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=424&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-12","dia": "MIERCOLES 12 DE ENERO 2022","horas": [
+    {"calendarioId": 425,"hora": "10:00 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=425&CategoriaTicket=2"}]},
+    {"calendarioId": 426,"hora": "11:30 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=426&CategoriaTicket=2"}]},
+    {"calendarioId": 427,"hora": "13:00 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=427&CategoriaTicket=2"}]},
+    {"calendarioId": 428,"hora": "14:30 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=428&CategoriaTicket=2"}]},
+    {"calendarioId": 429,"hora": "16:00 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=429&CategoriaTicket=2"}]},
+    {"calendarioId": 430,"hora": "17:30 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=430&CategoriaTicket=2"}]},
+    {"calendarioId": 431,"hora": "19:00 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=431&CategoriaTicket=2"}]},
+    {"calendarioId": 432,"hora": "20:30 HRS. MIERCOLES 12 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=432&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-13","dia": "JUEVES 13 DE ENERO 2022","horas": [
+    {"calendarioId": 433,"hora": "10:00 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=433&CategoriaTicket=2"}]},
+    {"calendarioId": 434,"hora": "11:30 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=434&CategoriaTicket=2"}]},
+    {"calendarioId": 435,"hora": "13:00 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=435&CategoriaTicket=2"}]},
+    {"calendarioId": 436,"hora": "14:30 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=436&CategoriaTicket=2"}]},
+    {"calendarioId": 437,"hora": "16:00 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=437&CategoriaTicket=2"}]},
+    {"calendarioId": 438,"hora": "17:30 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=438&CategoriaTicket=2"}]},
+    {"calendarioId": 439,"hora": "19:00 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=439&CategoriaTicket=2"}]},
+    {"calendarioId": 440,"hora": "20:30 HRS. JUEVES 13 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=440&CategoriaTicket=2"}]}
+    ]},
+    {"calendario": "2022-01-14","dia": "VIERNES 14 DE ENERO 2022","horas": [
+    {"calendarioId": 441,"hora": "10:00 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=441&CategoriaTicket=2"}]},
+    {"calendarioId": 442,"hora": "11:30 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=442&CategoriaTicket=2"}]},
+    {"calendarioId": 443,"hora": "13:00 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=443&CategoriaTicket=2"}]},
+    {"calendarioId": 444,"hora": "14:30 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=444&CategoriaTicket=2"}]},
+    {"calendarioId": 445,"hora": "16:00 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=445&CategoriaTicket=2"}]},
+    {"calendarioId": 446,"hora": "17:30 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=446&CategoriaTicket=2"}]},
+    {"calendarioId": 447,"hora": "19:00 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=447&CategoriaTicket=2"}]},
+    {"calendarioId": 448,"hora": "20:30 HRS. VIERNES 14 DE ENERO 2022","estado": 1,"categorias": [
+    {"categoriaId": 2,"nombre": "NORMAL","link": "https://compra.teleticket.com.pe/Compra/CategoriaTicket?EventoID=MKF001&CalID=448&CategoriaTicket=2"}]}
+    ]}]
