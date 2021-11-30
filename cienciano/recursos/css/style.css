@@ -1,0 +1,111 @@
+
+
+.pt-nav {
+  min-height: 55px;
+  padding: 10px 0;
+  color: white;
+}
+
+.pt-nav.dark {
+  background-color: #000;
+}
+
+
+#main {
+  overflow: hidden;
+}
+
+
+
+.footer a {
+  color: #F9B7B7;
+}
+
+
+
+.footer .fa_social {
+  background-color: white;
+  height: 30px;
+  width: 30px;
+  color: #292929;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 22px;
+  transition: all 0.2s;
+  padding-top: 5px;
+}
+
+.footer .fa_social:hover {
+  color: white;
+  background-color: #D03456    ;
+  text-decoration: none;
+}
+
+.footer {
+  background: #080808;
+  color: #f0f0f0;
+  font-size: .9em;
+  padding: 25px 0;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1367px) {
+  
+}
+
+
+@media only screen and (max-width:1200px) {
+
+}
+
+@media only screen and (min-width: 992px) {
+  .whatsapp {
+      display: none;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+ 
+  .brand{
+    display: none;
+  }
+
+  .pt-nav .social img {
+    height: 23px;
+  }
+
+}
+
+
+@media only screen and (max-width:800px) {
+
+
+}
+
+@media only screen and (max-width:768px) {
+
+}
+
+@media only screen and (max-width:575px) {
+  
+}
+
+@media only screen and (max-width:480px) {
+
+}
+
+
+@media only screen and (max-width:320px) {
+
+}
