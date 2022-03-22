@@ -1,0 +1,120 @@
+// Typography styles
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+.h {
+	display: block;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6,
+.h {
+	color: inherit;
+}
+
+h1, .h1 {
+	@include media-breakpoint-up(md) {
+		font-size: rem-calc(40);
+	}
+
+	@include media-breakpoint-up(lg) {
+		font-size: rem-calc(44);
+	}
+
+	@include media-breakpoint-up(xl) {
+		font-size: rem-calc(48);
+	}
+}
+
+h2, .h2 {
+	@include media-breakpoint-up(md) {
+		font-size: rem-calc(34);
+	}
+
+	@include media-breakpoint-up(lg) {
+		font-size: rem-calc(38);
+	}
+
+	@include media-breakpoint-up(xl) {
+		font-size: rem-calc(42);
+	}
+}
+
+h3, .h3 {
+	@include media-breakpoint-up(md) {
+		font-size: rem-calc(28);
+	}
+
+	@include media-breakpoint-up(lg) {
+		font-size: rem-calc(32);
+	}
+
+	@include media-breakpoint-up(xl) {
+		font-size: rem-calc(36);
+	}
+}
+
+h4, .h4 {
+	line-height: 1.333333;
+
+	@include media-breakpoint-up(md) {
+		font-size: rem-calc(22);
+	}
+
+	@include media-breakpoint-up(lg) {
+		font-size: rem-calc(24);
+	}
+
+	@include media-breakpoint-up(xl) {
+		font-size: rem-calc(26);
+	}
+}
+
+h5, .h5 {
+	@include media-breakpoint-up(md) {
+		font-size: rem-calc(18);
+	}
+
+	@include media-breakpoint-up(lg) {
+		font-size: rem-calc(20);
+	}
+
+	@include media-breakpoint-up(xl) {
+		font-size: rem-calc(22);
+	}
+}
+
+.lead {
+	line-height: $line-height-lead;
+
+	&.lead-smaller {
+		font-size: 112.5%;
+		line-height: 1.444444;
+	}
+}
+
+.small {
+	line-height: $line-height-small;
+
+	.button-block & {
+		line-height: $line-height-small-alt;
+	}
+}
+
+a,
+button,
+input[type='button'],
+input[type='reset'],
+input[type='file'],
+input[type='submit'],
+.btn {
+	@include animate(color background border opacity box-shadow, $animation-speed, linear);
+}
