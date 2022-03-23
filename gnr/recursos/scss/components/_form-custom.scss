@@ -1,0 +1,92 @@
+button,
+input[type='button'],
+input[type='reset'],
+input[type='file'],
+input[type='submit'] {
+	@include animate(color background border opacity box-shadow, $animation-speed, linear);
+	padding-top: 0 !important;
+	padding-bottom: 0 !important;
+
+	&.btn {
+		font: 400 18px/1 $input-font-family;
+		height: 53px;
+		line-height: 49px;
+	}
+
+	&.btn-lg {
+		height: 61px;
+		line-height: 58px;
+	}
+
+	&.btn-sm {
+		height: 42px;
+		line-height: 38px;
+	}
+}
+
+.form-control {
+	@include animate(color background border opacity box-shadow, $animation-speed, linear);
+
+	@include media-breakpoint-up(lg) {
+		padding-left: 18px;
+		padding-right: 18px;
+	}
+
+	@include media-breakpoint-up(xl) {
+		padding-left: 24px;
+		padding-right: 24px;
+	}
+}
+
+.subscribe-form {
+	@include media-breakpoint-up(lg) {
+		padding: 3px 0 0;
+	}
+
+	.lead {
+		font-size: 112.5%;
+		font-weight: 400;
+		margin-bottom: rem-calc(20);
+	}
+}
+
+.input-box {
+  @extend %clearfix;
+
+  @include media-breakpoint-up(md) {
+    max-width: 483px;
+  }
+
+  [type="email"],
+  [type="text"] {
+    border-radius: 29px;
+    height: 57px;
+    float: left;
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    padding-right: 120px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+  }
+
+  input {
+  	&.btn {
+  		@include btn-custom-color($gray-500, $white, $white);
+	    background: $gray-500;
+	    border: none;
+	    border-radius: 0 40px 40px 0;
+	    color: $white !important;
+	    float: right;
+	    margin: 0 0 0 -100%;
+	    text-align: center;
+	    width: 105px;
+	    height: 57px;
+	    line-height: 57px;
+	    position: relative;
+	    z-index: 2;
+  	}
+  }
+}
+
+

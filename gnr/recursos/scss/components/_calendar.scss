@@ -1,0 +1,509 @@
+.choose-date-container {
+	position: relative;
+	z-index:10;
+
+	@include media-breakpoint-down(sm) {
+		overflow:hidden;
+	}
+
+	&.selected {
+		@include media-breakpoint-down(sm) {
+			background-color: $white;
+		}
+
+		.ticket-datepicker-alt-field {
+			@include media-breakpoint-down(sm) {
+				position: static;
+				opacity: 1;
+				visibility: visible;
+				height: auto;
+				padding: 0;
+				background-color: transparent;
+				border-color: transparent;
+				color: $white;
+				white-space: nowrap; /* 1 */
+				text-overflow: ellipsis; /* 2 */
+				overflow: hidden;
+			}
+		}
+
+		.datepicker-holder {
+			@include media-breakpoint-down(sm) {
+				transform: translateX(0);
+			}
+		}
+
+		.datepicker-button {
+			@include media-breakpoint-down(sm) {
+				margin-left: 100%;
+				position: relative;
+				z-index: 99;
+			}
+		}
+	}
+
+	.js-win-height{
+		display: flex;
+		width: 100%;
+		flex-shrink: 0;
+	}
+
+	&.opened,
+	&.selected {
+		.js-win-height {
+			@include media-breakpoint-down(sm) {
+				min-height: 100vh;
+			}
+		}
+	}
+}
+
+.datepicker-container {
+	.datepicker-holder {
+		flex: 1 1 100%;
+		max-width: 100%;
+		display: flex;
+		flex-wrap: wrap;
+		align-items: center;
+		justify-content: center;
+		position: relative;
+
+		@include media-breakpoint-down(sm) {
+			@include animate(transform);
+			transform: translateX(100%);
+			height: 56px;
+		}
+	}
+
+	.datepicker-button {
+		flex: 1 1 100%;
+		max-width: 294px;
+
+		@include media-breakpoint-up(md) {
+			max-width: 338px;
+		}
+	}
+
+	.ticket-datepicker-alt-field {
+		position: absolute;
+		opacity: 0;
+		visibility: hidden;
+
+		&.form-control {
+			@media only screen and (max-width: 417px) {
+				font-size: 14px;
+			}
+
+			@media only screen and (min-width: 418px) and (max-width: 767px) {
+				font-size: 16px;
+			}
+		}
+	}
+
+	.form-control {
+		border-radius: 33px;
+		color: inherit;
+		font: 600 18px/24px $font-family-sans-serif-alt;
+		font-weight: 600;
+		padding-left: 35px;
+		padding-right: 75px;
+		text-align: center;
+		height: 56px;
+
+		@include media-breakpoint-up(md) {
+			padding-right: 95px;
+		}
+
+		@include media-breakpoint-up(lg) {
+			height: 60px;
+		}
+
+		@include media-breakpoint-up(xl) {
+			height: 65px;
+		}
+	}
+
+	button.form-control {
+		&:hover {
+			background-color: $info;
+			border-color: $info;
+			color: $white;
+		}
+	}
+
+	[class^="icon-"],
+	[class*=" icon-"] {
+		@include center-v;
+		font-size: 27px;
+		right: 32px;
+		pointer-events: none;
+
+		@include media-breakpoint-up(md) {
+			font-size: 33px;
+		}
+
+		@include media-breakpoint-up(lg) {
+			right: 39px;
+		}
+	}
+}
+
+.datepicker-alt-field-frame {
+	@include media-breakpoint-down(sm) {
+		width: 100%;
+		left: 100%;
+		top: 15px;
+		padding: 0 30px 0 120px;
+		position:absolute;
+	}
+}
+
+.js-spacer {
+	width:100%;
+	flex-shrink: 0;
+	display:none;
+
+	@include media-breakpoint-up(md) {
+		display:none;
+	}
+
+	.opened & {
+		@include media-breakpoint-down(sm) {
+			display: block;
+		}
+	}
+	.selected & {
+		@include media-breakpoint-down(sm) {
+			display:none !important;
+		}
+	}
+}
+
+.ticket-datepicker {
+	@include media-breakpoint-down(sm) {
+		display:block !important;
+	}
+
+	td {
+		pointer-events: none;
+	}
+
+	.available {
+		pointer-events: auto;
+
+		a {
+			background-color: rgba($info, 1);
+			border-color: rgba($info, .3);
+			color: $white;
+			pointer-events: auto;
+		}
+	}
+
+	.not-available {
+		a {
+			background-color: rgba(#21222a, .5);
+			border-color: rgba($info, .3);
+			color: #6e6b6e;
+		}
+	}
+}
+
+.datepicker-button {
+	position: relative;
+	color: $info;
+
+	&:hover,
+	&:active {
+		color: $white;
+	}
+
+	.ticket-datepicker-field {
+		position: absolute;
+		opacity: 0;
+		visibility: hidden;
+	}
+
+	.opened & {
+		@include media-breakpoint-down(sm) {
+			visibility:hidden;
+		}
+	}
+
+	.selected & {
+		@include media-breakpoint-down(sm) {
+			display: inline-flex;
+			align-items: center;
+			justify-content: center;
+			color: $white;
+		}
+
+		button.form-control {
+			@include media-breakpoint-down(sm) {
+				@include hide-text;
+				background: $info;
+				border-radius: 0 28px 28px 0;
+				border-color: transparent;
+				color: inherit;
+				min-width: 0;
+				max-width: none;
+				text-align: right;
+				width: 108px;
+				height: 56px;
+				padding: 0;
+
+				&:hover,
+				&:focus {
+					background-color: darken($info, 15%);
+				}
+			}
+		}
+
+		@include media-breakpoint-down(sm) {
+			[class^="icon-"],
+			[class*=" icon-"] {
+				margin: 0 5px;
+			}
+
+			.icon-arrow-left,
+			.icon-arrow-right {
+				font-size: 14px !important;
+			}
+
+			.icon-calendar {
+				font-size: 27px !important;
+				right: 12px;
+			}
+		}
+
+		&:before {
+			@include media-breakpoint-down(sm) {
+				@include icon-icomoon;
+				@include center-v;
+				content: "\e910";
+				left: 38px;
+				font-size: 20px;
+				pointer-events: none;
+			}
+		}
+	}
+}
+
+.datepicker-card {
+	@include media-breakpoint-down(sm) {
+		margin-left: -$grid-gutter-width / 2 !important;
+		margin-right: -$grid-gutter-width / 2 !important;
+	}
+
+	.card-body {
+		padding-top: 38px;
+		padding-bottom: 18px;
+
+		@include media-breakpoint-up(lg) {
+			padding-top: 33px;
+			padding-bottom: 40px;
+		}
+	}
+
+	.datepicker-container {
+		margin-left: -24px !important;
+		margin-right: -24px !important;
+	}
+}
+
+.datepicker-results-frame {
+	@include media-breakpoint-down(sm) {
+		@include animate(transform);
+		width:100%;
+		transform: translateX(calc(100% + 15px));
+		position:absolute;
+		left:0;
+		overflow:hidden;
+	}
+
+	.selected & {
+		@include media-breakpoint-down(sm) {
+			transform: translateX(0);
+			position:static;
+		}
+	}
+}
+
+@keyframes loader {
+	from {
+		transform: rotate(0deg);
+	}
+
+	to {
+		transform: rotate(360deg);
+	}
+}
+
+.datepicker-results {
+	position:relative;
+
+	.loading & {
+		min-height:200px;
+
+		&:before {
+			visibility:visible;
+		}
+	}
+
+	&:before {
+		content:"";
+		position:absolute;
+		top:50px;
+		left:calc(50% - 25px);
+		height:50px;
+		width:50px;
+		border: 5px solid $white;
+		border-top-color: transparent;
+		border-radius: 50%;
+		transform: rotate(0deg);
+		animation:loader 1s infinite linear;
+		visibility:hidden;
+		pointer-events: none;
+	}
+
+	.title {
+		font-family: $font-family-sans-serif-alt;
+	}
+
+	.card {
+		.ticket-title {
+			.h6 {
+				@include media-breakpoint-down(sm) {
+					margin-top: 23px;
+				}
+			}
+		}
+	}
+
+	.text-right {
+		.subtitle {
+			margin-left: auto;
+		}
+	}
+
+	.subtitle {
+		max-width: 251px;
+
+		@include media-breakpoint-down(sm) {
+			font-size: rem-calc(14);
+		}
+	}
+}
+
+.datepicker-mobile-header {
+	display: flex;
+	position: relative;
+	padding: 0 0 0 100px;
+	text-align: center;
+
+	.header-holder {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		flex: 1 1 100%;
+		max-width: 100%;
+		min-height: 56px;
+	}
+
+	.ticket-datepicker-alt-field {
+		border: none;
+		pointer-events: none;
+		background-color: transparent !important;
+		font: 600 18px/24px $font-family-sans-serif-alt;
+	}
+
+	.datepicker-trigger {
+		@include hide-text;
+	}
+
+	.datepicker-button {
+		@include center-v;
+		left: 0;
+		margin: 0 0 0 (-$grid-gutter-width / 2);
+	}
+
+	.btn-back {
+		margin: 0;
+	}
+
+	.button-icon-holder {
+		@include center-v;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		right: 22px;
+		color: $white;
+		pointer-events: none;
+	}
+
+	.h5 {
+		font-size: rem-calc(18);
+		font-weight: 600;
+	}
+}
+
+.datepicker-frame {
+	width:100%;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+
+	.selected & {
+		@include media-breakpoint-down(sm) {
+			justify-content:flex-start;
+		}
+	}
+
+	@include media-breakpoint-down(sm) {
+		position:absolute;
+		top:0;
+		left:0;
+		width:100%;
+		transform: translateX(-100%);
+	}
+}
+
+.dp-drop {
+	@include animate(opacity visibility);
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	left: 0;
+	visibility: hidden;
+	width: 100%;
+	z-index:100;
+
+	@include media-breakpoint-down(sm) {
+		left: 0 !important;
+	}
+
+	@include media-breakpoint-up(md) {
+		left: 50%;
+		top: 100%;
+		transform: translate(-50%, 0);
+		width: 485px;
+		margin-top: 10px;
+	}
+
+	@media only screen and (min-width: 1279px) {
+		transform: translate(30%, -33px);
+		margin-top: 0;
+	}
+
+	.opened & {
+		opacity: 1;
+		visibility: visible;
+	}
+
+	.selected & {
+		@include media-breakpoint-down(sm) {
+			display:block;
+			opacity: 1;
+			visibility: visible;
+		}
+	}
+}

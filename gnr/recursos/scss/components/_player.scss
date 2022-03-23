@@ -1,0 +1,70 @@
+.player-container {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	z-index: 990;
+	height: 80px;
+
+	iframe {
+		width: 100%;
+		height: 80px !important;
+	}
+}
+
+.embed-responsive[data-type] {
+	background: #000;
+
+	.play-button {
+		@include center-vh;
+		background: url(../images/icon-play.png) no-repeat;
+		background-position: 50% 50%;
+		height: 80px;
+		width: 80px;
+		border: none;
+		padding: 0;
+		margin: 0;
+		z-index: 10;
+		outline: none;
+	}
+
+	iframe {
+		visibility: hidden;
+	}
+
+	&.default-controls,
+	&.play-pressed {
+		iframe {
+			visibility: visible;
+		}
+
+		.play-button {
+			display: none;
+		}
+	}
+}
+
+.lazy-video-loading:after {
+	content: '';
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%) rotate(0deg);
+	border: 5px solid #fff;
+	border-bottom-color: transparent;
+	border-radius: 50%;
+	animation: loading 1s linear both infinite;
+	z-index: 10;
+}
+
+@keyframes loading {
+	from {
+		transform: translate(-50%, -50%) rotate(0deg);
+	}
+
+	to {
+		transform: translate(-50%, -50%) rotate(360deg);
+	}
+}
