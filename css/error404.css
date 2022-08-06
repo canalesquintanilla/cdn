@@ -1,0 +1,95 @@
+* {
+    font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif;
+  }
+  
+  body {
+    background: rgb(0,16,36);
+background: -moz-linear-gradient(45deg, rgba(0,16,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+background: -webkit-linear-gradient(45deg, rgba(0,16,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+background: linear-gradient(45deg, rgba(0,16,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#001024",endColorstr="#00d4ff",GradientType=1);
+  }
+  
+  .contenido {
+    height: 100vh;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  .error404 {
+    font-size: 5rem;
+    color: #baf4fc;
+    font-weight: bolder;
+  }
+  
+  .mensaje {
+    color: white;
+    letter-spacing: 0.1rem;
+  }
+  
+  .destello-a {
+    background: rgb(186,244,252);
+    background: -moz-linear-gradient(45deg, rgba(186,244,252,0) 25%, rgba(186,244,252,1) 50%, rgba(186,244,252,0) 75%);
+    background: -webkit-linear-gradient(45deg, rgba(186,244,252,0) 25%, rgba(186,244,252,1) 50%, rgba(186,244,252,0) 75%);
+    background: linear-gradient(45deg, rgba(186,244,252,0) 25%, rgba(186,244,252,1) 50%, rgba(186,244,252,0) 75%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#baf4fc",endColorstr="#baf4fc",GradientType=1);
+    height: 3px;
+  }
+  
+  .destello-b {
+    background: rgb(186,244,252);
+    background: -moz-linear-gradient(45deg, rgba(186,244,252,0) 25%, rgba(186,244,252,1) 50%, rgba(186,244,252,0) 75%);
+    background: -webkit-linear-gradient(45deg, rgba(186,244,252,0) 25%, rgba(186,244,252,1) 50%, rgba(186,244,252,0) 75%);
+    background: linear-gradient(45deg, rgba(186,244,252,0) 25%, rgba(186,244,252,1) 50%, rgba(186,244,252,0) 75%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#baf4fc",endColorstr="#baf4fc",GradientType=1);
+    height: 2px;
+  }
+  
+  .volver {
+    color: #ffffff;
+  }
+  
+    .volver:hover {
+      color: #db495a;
+    }
+  
+  .zona {
+    flex: 0 0 0%;
+  }
+  
+  .zona-b {
+    flex: 0 0 100%;
+    margin-right: 10%;
+  }
+  
+  .logo-iso {
+    float: right;
+    margin: 2rem;
+    max-width: 10rem;
+    width: 100%;
+  }
+  
+  @media screen and (min-width: 992px) {
+    .zona {
+      flex: 0 0 20%;
+    }
+  
+    .zona-b {
+      flex: 0 0 60%;
+      margin-right: 10%;
+    }
+  }
+  
+  @media screen and (min-width: 1200px) {
+    .zona {
+      flex: 0 0 30%;
+    }
+  
+    .zona-b {
+      flex: 0 0 40%;
+      margin-right: 10%;
+    }
+  }
+  
