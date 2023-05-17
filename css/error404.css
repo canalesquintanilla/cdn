@@ -2,13 +2,70 @@
     font-family: Roboto, Tahoma, Verdana, Segoe, sans-serif;
   }
   
-  body {
+  /*body {
     background: rgb(0,16,36);
 background: -moz-linear-gradient(45deg, rgba(0,16,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 background: -webkit-linear-gradient(45deg, rgba(0,16,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 background: linear-gradient(45deg, rgba(0,16,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#001024",endColorstr="#00d4ff",GradientType=1);
+  }*/
+
+body {
+    background: linear-gradient(270deg, rgba(0,130,255,1), rgba(8,35,215,1));
+    background-size: 600% 600%;
+    
+    -webkit-animation: AnimationName 9s ease infinite;
+    -moz-animation: AnimationName 9s ease infinite;
+    -o-animation: AnimationName 9s ease infinite;
+    animation: AnimationName 9s ease infinite;
+    position: relative;
   }
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@-o-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
   
   .contenido {
     height: 100vh;
