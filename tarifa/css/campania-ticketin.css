@@ -1,0 +1,69 @@
+.logo_ticketin {
+  width: 150px;
+}
+
+.camp_tit {
+  background: url(../images/fondo-campania.jpg) center center no-repeat #320070;
+  background-size: cover;
+  padding: 35px 5px 15px !important;
+}
+
+.cont_logo {
+  margin-bottom: 3px;
+  position: relative;
+}
+
+.camp_blanco {
+  color: #fff !important;
+  font-size: 14px !important;
+}
+
+.camp_descuento {
+  color: #fff;
+  font-size: 12px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+
+.camp_descuento span {
+  font-family: "Lexend", sans-serif;
+  font-weight: 700;
+  font-size: 28px;
+  vertical-align: sub;
+}
+
+.personaje_ticketin {
+  position: absolute;
+  width: 23%;
+  height: 5%;
+  top: -15%;
+  right: 8%;
+}
+
+table tr td:nth-of-type(2) {
+  background: #320070 !important;
+}
+
+table tr td:nth-of-type(2) div {
+  color: #fdf9ff !important;
+}
+
+.campania {
+  display: none;
+}
+
+.ticketsmonos {
+  position: relative;
+  width: 70%;
+}
+
+@media only screen and (max-width: 576px) {
+  .logo_ticketin {
+    width: 150px;
+  }
+
+  .ticketsmonos {
+    position: relative;
+    width: 100%;
+  }
+}
